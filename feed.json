@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Shogy Chocolate",
+    "description": "",
+    "home_page_url": "https://dropthedot.io/shogy",
+    "feed_url": "https://dropthedot.io/shogy/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andy M."
+    },
+    "items": [
+    ]
+}
