@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dropthedot.github.io/shogy/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://shogy.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dropthedot.github.io/shogy/</loc>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/about-us.html</loc>
-<lastmod>2025-10-28T19:04:06-06:00</lastmod>
-<image:image>
-<image:loc>https://dropthedot.github.io/shogy/media/posts/2/Andy-und-Yvi-2.jpeg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/bienvenidos.html</loc>
-<lastmod>2025-10-29T12:02:58-06:00</lastmod>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/contact-us.html</loc>
-<lastmod>2025-10-28T14:23:05-06:00</lastmod>
-<image:image>
-<image:loc>https://dropthedot.github.io/shogy/media/posts/5/20250316_185516.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/mission-statement.html</loc>
-<lastmod>2025-10-28T14:19:48-06:00</lastmod>
-<image:image>
-<image:loc>https://dropthedot.github.io/shogy/media/posts/3/20250710_084750.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/products.html</loc>
-<lastmod>2025-10-28T14:25:43-06:00</lastmod>
-<image:image>
-<image:loc>https://dropthedot.github.io/shogy/media/posts/4/GridArt_20250719_120602405.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://dropthedot.github.io/shogy/willkommen.html</loc>
-<lastmod>2025-10-29T12:02:45-06:00</lastmod>
+<loc>https://shogy.org/</loc>
 </url>
 </urlset>

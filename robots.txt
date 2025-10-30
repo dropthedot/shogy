@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dropthedot.github.io/shogy/sitemap.xml
+Sitemap: https://shogy.org/sitemap.xml
