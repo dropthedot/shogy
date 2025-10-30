@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://shogy.org/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dropthedot.github.io/shogy/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://shogy.org/</loc>
+<loc>https://dropthedot.github.io/shogy/</loc>
+</url>
+<url>
+<loc>https://dropthedot.github.io/shogy/about-us.html</loc>
+<lastmod>2025-10-30T11:25:33-06:00</lastmod>
+</url>
+<url>
+<loc>https://dropthedot.github.io/shogy/contact-us.html</loc>
+<lastmod>2025-10-30T11:18:16-06:00</lastmod>
+</url>
+<url>
+<loc>https://dropthedot.github.io/shogy/mission-statement.html</loc>
+<lastmod>2025-10-30T11:16:10-06:00</lastmod>
+</url>
+<url>
+<loc>https://dropthedot.github.io/shogy/product.html</loc>
+<lastmod>2025-10-30T11:17:23-06:00</lastmod>
 </url>
 </urlset>
